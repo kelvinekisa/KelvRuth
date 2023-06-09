@@ -21,7 +21,7 @@ class home : AppCompatActivity() {
 
 //find login  and register by ID
         button_1 = findViewById(R.id.log_in)
-        button_2 = findViewById(R.id.register)
+        button_2 = findViewById(R.id.button_2)
 
         .setOnClickListener {
             // Handle login button click
